@@ -1,0 +1,9 @@
+# Basic dependencies for the media-manipulator service
+# For actual media processing, you would add:
+# ffmpeg-python>=0.2.0
+# opencv-python>=4.5.0
+# pillow>=8.0.0
+# moviepy>=1.0.0
+
+# For now, we only need basic Python dependencies
+typing-extensions>=4.0.0
